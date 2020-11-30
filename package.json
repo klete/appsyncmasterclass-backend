@@ -1,0 +1,20 @@
+{
+  "name": "appsyncmasterclass-backend",
+  "version": "1.0.0",
+  "description": "Backend for the AppSync Master class demo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klete/appsyncmasterclass-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klete/appsyncmasterclass-backend/issues"
+  },
+  "homepage": "https://github.com/klete/appsyncmasterclass-backend#readme"
+}
